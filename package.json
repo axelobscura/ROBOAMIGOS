@@ -2,6 +2,7 @@
   "name": "roboamigos",
   "version": "0.1.0",
   "private": true,
+  "homepage": "http://31.220.62.12/roboamigos/",
   "dependencies": {
     "react": "^16.2.0",
     "react-dom": "^16.2.0",
@@ -20,7 +21,6 @@
   "browserslist": {
     "production": [
       ">0.2%",
-      "not dead",
       "not op_mini all"
     ],
     "development": [
